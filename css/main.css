@@ -79,6 +79,10 @@ section-3 {
 }
 
 section-4 {
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px 10px;
 }
 
 .section-5 {
