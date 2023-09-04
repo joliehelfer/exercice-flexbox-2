@@ -72,6 +72,18 @@ video {
   flex-wrap: wrap;
 }
 
+section-3 {
+  flex-direction: row;
+  justify-content: center;
+  gap: 10px;
+}
+
+section-4 {
+}
+
+.section-5 {
+}
+
 .section-2 .box {
   width: 50%;
 }
