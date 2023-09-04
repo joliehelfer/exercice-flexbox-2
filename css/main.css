@@ -60,3 +60,9 @@ video {
   padding: 5px;
   width: 25%;
 }
+
+.section-1 {
+  flex-direction: row;
+  justify-content: center;
+  align-items: stretch;
+}
