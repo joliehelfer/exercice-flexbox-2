@@ -66,3 +66,8 @@ video {
   justify-content: center;
   align-items: stretch;
 }
+
+section-2 {
+  flex-direction: row;
+  flex-wrap: wrap;
+}
